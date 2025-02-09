@@ -31,6 +31,8 @@
 ### 数据集使用
 * LERF:
 * Instruct-NeRF2NeRF:
+### 缺点与相关解决方案:
+* 
 ### 相关工作(顺手看一看)
 * PhysDreamer:用视频生成模型来估计物理参数
 * [DreamPhysics]()
@@ -46,3 +48,5 @@
 * [计算机图形学中的抽样技术](https://zhuanlan.zhihu.com/p/433247664)
 * [MLS-MPM](https://github.com/yuanming-hu/taichi_mpm)
 * Blendernerf:
+* Clip:[很有必要看的一篇paper](https://www.bilibili.com/video/BV1SL4y1s7LQ/?spm_id_from=333.337.search-card.all.click&vd_source=bed021adf6080abd8e36176ceb00e4a6)
+* 
